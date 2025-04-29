@@ -182,6 +182,8 @@ A curated collection of innovative AI projects and resources.
     - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
   - [aide](https://github.com/codestoryai/aide) - ⭐ 1,171
     - The open-source AI-native IDE
+  - [Kilo Code](https://kilocode.ai) - ⭐ 206
+    - Open Source AI coding assistant for planning, building, and fixing code inside VS Code.
 
 ### LLM Services {llm-services}
 *22 repositories*
